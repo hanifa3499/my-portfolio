@@ -6,7 +6,7 @@ const projects = [
       "A full-stack car rental management system with authentication and booking features.",
     technologies: ["Next.js", "Node.js", "MySQL"],
     image: "/projects/car-rental.jpg",
-    githubUrl: "#"
+    githubUrl: "https://github.com/hanifa3499/car-rental-system"
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ const projects = [
       "A point of sale system for managing products, sales, and transactions.",
     technologies: ["Node.js", "Express", "MySQL"],
     image: "/projects/pos-system.jpg",
-    githubUrl: "#"
+    githubUrl: "https://github.com/hanifa3499/pos-management-system"
   },
 
    {
@@ -24,7 +24,7 @@ const projects = [
     description: "An online ordering system for a coffee restaurant selling brewed coffee, fresh coffee products, croissants, and more, with a checkout page.",
     technologies: ["HTML", "Css/Tailwind", "Javascript"],
     image: "/projects/coffee-restaurant.jpg",
-    githubUrl: "#"
+    githubUrl: "https://github.com/hanifa3499/coffee-restaurant"
   },
 
    {
@@ -33,7 +33,7 @@ const projects = [
     description: " website for managing hospital operations.",
     technologies: ["HTML", "Css/Tailwind", "Javascript"],
     image: "/projects/hms.jpg",
-    githubUrl: "#"
+    githubUrl: "https://github.com/hanifa3499/hospital-management-system"
   },
 
   {
@@ -42,7 +42,7 @@ const projects = [
     description: " A modern fitness gym website with workout plans and membership options.",
     technologies: ["HTML", "Css/Tailwind", "Javascript"],
     image: "/projects/fitlife.jpg",
-    githubUrl: "#"
+    githubUrl: "https://github.com/hanifa3499/fitlife-gym"
   },
   {
     id: 6,
@@ -50,7 +50,7 @@ const projects = [
     description: "A comprehensive application for tracking expenses, managing budgets, and analyzing financial habits.",
     technologies: ["React", "Node.js", "MongoDB"],
     image: "/projects/finance-app.jpg",
-    githubUrl: "#"
+    githubUrl: "https://github.com/hanifa3499/finance-budgeting-app"
   }
 ];
 
